@@ -8,5 +8,7 @@ Es este caso vemos todo**
 
 *Creado por evesita
 
+*Incluye ejemplos en linux y mac
+*disponible para todas las edades
 :blush: :blush:
 
